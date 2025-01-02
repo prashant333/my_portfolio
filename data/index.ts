@@ -75,7 +75,7 @@ export const navItems = [
       title: "One Social - Exahustive Social media platform",
       des: "A unified platform integrating all social media channels, allowing seamless management, engagement, and analytics in one place.",
       img: "./p1.svg",
-      iconLists: ["/python.svg", "/tail.svg", "/postgresql.svg", "/three.svg", "/fm.svg"],
+      iconLists: ["./python.svg", "./tail.svg", "./postgresql.svg", "./three.svg", "./fm.svg"],
       link: "https://github.com/prashant333?tab=repositories",
     },
     {
@@ -83,7 +83,7 @@ export const navItems = [
       title: "Gym Management Platform - A web app",
       des: "A comprehensive web app for gym management, streamlining member registration, scheduling, and progress tracking.",
       img: "./gym.png",
-      iconLists: ["/php.svg", "/bulma.svg", "/js.svg", "/stream.svg", "/c.svg"],
+      iconLists: ["./php.svg", "./bulma.svg", "./js.svg", "./stream.svg", "./c.svg"],
       link: "https://github.com/prashant333?tab=repositories",
     },
     {
@@ -91,7 +91,7 @@ export const navItems = [
       title: "SEA Engineering College - College Website",
       des: "A dynamic college website built with HTML, CSS, Bulma, and JavaScript, offering responsive design, user-friendly navigation, and interactive features",
       img: "./college.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
       link: "https://github.com/prashant333?tab=repositories",
     },
     {
@@ -99,7 +99,7 @@ export const navItems = [
       title: "Animated Apple Iphone 3D Website",
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "./p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
       link: "https://github.com/prashant333?tab=repositories",
     },
   ];
