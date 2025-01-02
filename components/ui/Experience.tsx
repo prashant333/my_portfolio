@@ -1,10 +1,10 @@
 "use client";
 import { workExperience } from '@/data'
-import { button } from 'framer-motion/client'
-import { motion } from "framer-motion";
+// import { button } from 'framer-motion/client'
+// import { motion } from "framer-motion";
 import React from 'react'
 import { Button } from './MovingBorders'
-import { LampContainer } from './Lamp';
+// import { LampContainer } from './Lamp';
 
 const Experience = () => {
   return (
